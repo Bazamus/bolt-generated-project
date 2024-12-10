@@ -1,0 +1,21 @@
+Estructura de archivos a crear:
+
+budget-generator/
+├── .gitignore
+├── .env
+├── index.html
+├── package.json
+├── vite.config.js
+├── README.md
+└── src/
+    ├── App.jsx
+    ├── main.jsx
+    ├── components/
+    │   └── Sidebar.jsx
+    ├── pages/
+    │   ├── Dashboard.jsx
+    │   ├── Clients.jsx
+    │   ├── Budgets.jsx
+    │   └── Materials.jsx
+    └── lib/
+        └── supabase.js
